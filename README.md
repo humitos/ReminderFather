@@ -8,7 +8,7 @@ I think `recordium` (https://github.com/facundobatista/recordium) it's a great i
 
 I would like to have these features:
 
-* When you are navigating a Issue on Github, have the same behaviour than in Slack `Remind me about this in` with a couple of options. So, you read an issue in Github right now, but you already know that the solution won't be in the next month and you don't want to forget to take a look in two month now.
+* When you are navigating a Issue on Github, have the same behaviour than in Slack `Remind me about this in` with a couple of options. So, you read an issue in Github right now, but you already know that the solution won't be in the next month and you don't want to forget to take a look in two month from now.
 
 * Once you send a reminder to the app, it would check the metadata of event (URL, Website, Name, Hour, GPS, etc) and will decide which method of reminder this event should be: email, SO notification, Telegram message, recordium light, Slack message, or another and will send them when the reminder happens
 
