@@ -26,3 +26,12 @@ I'm thinking this as a first approach. For example, after sharing the YouTube vi
 ## Integration in the browser
 
 We will probably need an addon that adds an icon next to each of the element that we want to be able to have a reminder (Github issue, for example)
+
+
+# References
+
+* https://api.slack.com/methods/reminders.add
+* https://ifttt.com/
+* https://github.com/facundobatista/recordium
+* https://t.me/ReminderFather
+* https://core.telegram.org/bots
